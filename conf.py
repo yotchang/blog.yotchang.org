@@ -51,7 +51,7 @@ posts_per_page = 10
 
 # Add other Sphinx extensions here
 extensions = ['tinkerer.ext.blog',
-              'tinkerer_url_link_patch',
+              'tinkerer_extension_patch',
               'tinkerer.ext.disqus',
               'sphinxcontrib.twitter',
               'sphinxcontrib.gist',
