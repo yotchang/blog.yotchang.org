@@ -26,8 +26,7 @@ Tinkererのソースコードを読んだら .html がハードコードされ�
 
 .. code-block:: sh
 
-  $ setup.py bdist_egg
-  $ easy_install dist/tinkerer_suffix_patch-1.1-py2.7.egg
+  $ python setup.py install
 
 Tinkererのconfig.pyに追加します。tinkerer.ext.blogの直後に追加して下さい。
 
