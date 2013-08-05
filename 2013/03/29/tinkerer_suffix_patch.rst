@@ -51,6 +51,6 @@ GitHub Pagesだとよしなにしてくれますが、Bitbucketではできな�
 
 
 .. author:: default
-.. categories::
+.. categories:: none
 .. tags:: Tinkerer, Python
 .. comments::
