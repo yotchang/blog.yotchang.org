@@ -23,7 +23,7 @@ author = u'てつたろー@yotchang4s'
 copyright = '1984, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://blog.yotchang.org/'
+website = 'http://yotchang4s.org/'
 
 # **************************************************************
 # More tweaks you can do
