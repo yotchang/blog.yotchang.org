@@ -17,10 +17,10 @@ tagline = u'ーどこかの世界線の話ー'
 description = u'適当プログラマ'
 
 # Change this to your name
-author = u'てつたろー@yotchang4s'
+author = u'よっちゃん/よしあき@yotchang4s'
 
 # Change this to your copyright string
-copyright = '1984, ' + author
+copyright = '2013, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://yotchang4s.org/'

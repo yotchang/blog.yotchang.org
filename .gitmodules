@@ -1,0 +1,3 @@
+[submodule "themes/atahualparer"]
+	path = themes/atahualparer
+	url = git@github.com:yotchang4s/atahualparer.git
