@@ -1,3 +1,3 @@
 [submodule "themes/atahualparer"]
 	path = themes/atahualparer
-	url = ssh://git@github.com:22/yotchang4s/atahualparer.git
+	url = https://github.com/yotchang4s/blog.yotchang4s.org.git
