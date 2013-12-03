@@ -17,13 +17,13 @@ tagline = u'ーどこかの世界線の話ー'
 description = u'適当プログラマ'
 
 # Change this to your name
-author = u'よっちゃん/よしあき@yotchang4s'
+author = u'よしあき@yotchang4s'
 
 # Change this to your copyright string
 copyright = '2013, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://yotchang4s.org/'
+website = 'http://blog.yotchang4s.org/'
 
 # **************************************************************
 # More tweaks you can do
@@ -33,7 +33,7 @@ website = 'http://yotchang4s.org/'
 disqus_shortname = None
 
 # Change your favicon (new favicon goes in _static directory)
-html_favicon = 'tinkerer.ico'
+html_favicon = 'favicon.ico'
 
 # Pick another Tinkerer theme or use your own
 html_theme = "atahualparer"
@@ -49,7 +49,7 @@ rss_service = None
 rss_generate_full_posts = False
 
 # Number of blog posts per page
-posts_per_page = 5
+posts_per_page = 10
 
 # **************************************************************
 # Edit lines below to further customize Sphinx build
@@ -63,16 +63,16 @@ extensions = ['tinkerer.ext.blog',
               'sphinx_amazonjp_embed']
 
 # Add other template paths here
-templates_path = ['templates']
+templates_path = ['_templates']
 
 # Add other static paths here
-html_static_path = ['static', tinkerer.paths.static]
+html_static_path = ['_static', tinkerer.paths.static]
 
 # Add other theme paths here
-html_theme_path = ['themes', tinkerer.paths.themes]
+html_theme_path = ['_themes', tinkerer.paths.themes]
 
 # Add file patterns to exclude from build
-exclude_patterns = ["drafts/*", "templates/*"]
+exclude_patterns = ["drafts/*", "_templates/*"]
 
 # Add templates to be rendered in sidebar here
 html_sidebars = {
