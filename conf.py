@@ -36,7 +36,7 @@ disqus_shortname = None
 html_favicon = 'favicon.ico'
 
 # Pick another Tinkerer theme or use your own
-html_theme = "atahualparer"
+html_theme = "tinkerturquoise"
 
 # Theme-specific options, see docs
 html_theme_options = { }
@@ -76,7 +76,7 @@ exclude_patterns = ["drafts/*", "_templates/*"]
 
 # Add templates to be rendered in sidebar here
 html_sidebars = {
-    "**": ["recent.html", "searchbox.html"]
+    "**": ["recent.html", "searchbox.html", "tags.html"]
 }
 
 # **************************************************************
