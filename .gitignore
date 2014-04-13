@@ -1,4 +1,8 @@
+*~
+#*
 drafts/
 blog/
 index.html
 .*
+__pycache__
+*.pyc
